@@ -22,10 +22,10 @@ en: &DEFAULT_EN
     list:
       - title: "UX Analysis and Troubleshooting"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fab fa-magnifying-glass #find more at https://fontawesome.com/icons
+        icon: fa-solid fa-magnifying-glass #find more at https://fontawesome.com/icons
       - title: "Guidance and Facilitation"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-comments
+        icon: fa-solid fa-comments
       - title: "Keynote Speaking"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-person-chalkboard
