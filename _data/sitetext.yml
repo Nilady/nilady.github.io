@@ -25,10 +25,10 @@ en: &DEFAULT_EN
         icon: fa-solid fa-magnifying-glass #find more at https://fontawesome.com/icons
       - title: "Guidance and Facilitation"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-solid fa-comments
+        icon: fa-regular fa-comments
       - title: "Keynote Speaking"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-person-chalkboard
+        icon: fa-solid fa-person-chalkboard
 
   portfolio:
     title: "Portfolio"
