@@ -21,22 +21,22 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Creative Direction & UX Design"
-        desc: "I can help clarify your high level vision from design pillars to audience personas and core feature design to user flows and detailed UX design. Whether you’re starting from scratch or refining an existing product, I can ensure your design aligns with your goals and resonates with your audience."
+        desc: "I help bring clarity to your high-level vision by defining design pillars, audience personas, core feature designs, user flows, detailed UX design, and more. Whether you’re building a new product or refining an existing one, I ensure your design aligns with your goals and creates meaningful, engaging experiences for your audience."
         icon: far fa-compass
       - title: "App Critiques & Expert Analysis"
-        desc: "With my years of expertise and the honed ability to embrace the beginner's mindset, I can review your (or your competitor's) product, identify key usability issues, troubleshoot problems related to your KPIs and provide potential solutions to them."
+        desc: "With years of experience and a unique ability to adopt a beginner's mindset, I provide thorough reviews of your product or your competitor’s. I identify usability issues, troubleshoot problems affecting your KPIs, and offer actionable solutions to elevate your product."
         icon: fas fa-search #find more at https://fontawesome.com/icons
       - title: "User Testing & Playtesting Support"
-        desc: "Seeing how players and users actually use and react to your product is crucial to know your product actually creates the experience you want it to. I can help identify the right people to test your product with, run the tests, and give you the information you need to make your product successful."
+        desc: "Understanding how players and users interact with your product is essential to delivering the experience you envision. I can help identify the right test audience, conduct insightful user tests, and provide actionable feedback to make your product a success."
         icon: fas fa-clipboard-list
       - title: "Business & Development Process"
-        desc: "I can assist you in your development process, for example, by helping you nail down the core concepts, organise milestones into a roadmap, and prioritise features"
+        desc: "I support your development process by helping define core concepts, organize milestones into a clear roadmap, and prioritize features effectively. Together, we’ll create a structured approach to achieving your business goals."
         icon: far fa-calendar-alt
       - title: "Guidance, Mentoring & Coaching"
-        desc: "Sometimes the way to unblock yourself or your team is to get outside perspective. I have worked with and lead multiple teams and helped them find alignment and set attainable goals both as individuals and as teams. I can do the same for you and your team."
+        desc: "Sometimes, an outside perspective is all it takes to unlock potential. With extensive experience leading and mentoring teams, I help individuals and groups find alignment, set achievable goals, and build momentum toward success."
         icon: fas fa-comments
       - title: "Keynote Speaking & Workshops"
-        desc: "I frequently speak about player centric development practices internationally and in Finland. My talks are inspiring and filled with concrete tools and examples."
+        desc: "I deliver inspiring talks on player-centric development practices that equip teams with practical tools and fresh perspectives. My sessions spark innovation, foster collaboration, and help teams create meaningful user experiences, leaving them ready to tackle challenges and drive results."
         icon: fas fa-child
 
   portfolio:
