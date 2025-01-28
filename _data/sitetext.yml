@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Creative Direction & UX Design"
-        desc: "I help bring clarity to your high-level vision by defining design pillars, audience personas, core feature designs, user flows, detailed UX design, and more. Whether you’re building a new product or refining an existing one, I ensure your design aligns with your goals and creates meaningful, engaging experiences for your audience."
+        desc: "I help bring clarity to your high-level vision by defining design pillars, audience personas, core features, user flows, detailed UX design, and more. Whether you’re building a new product or refining an existing one, I ensure your design aligns with your goals and creates engaging experiences for your audience."
         icon: far fa-compass
       - title: "App Critiques & Expert Analysis"
         desc: "With years of experience and a unique ability to adopt a beginner's mindset, I provide thorough reviews of your product or your competitor’s. I identify usability issues, troubleshoot problems affecting your KPIs, and offer actionable solutions to elevate your product."
@@ -36,7 +36,7 @@ en: &DEFAULT_EN
         desc: "Sometimes, an outside perspective is all it takes to unlock potential. With extensive experience leading and mentoring teams, I help individuals and groups find alignment, set achievable goals, and build momentum toward success."
         icon: fas fa-comments
       - title: "Keynote Speaking & Workshops"
-        desc: "I deliver inspiring talks on player-centric development practices that equip teams with practical tools and fresh perspectives. My sessions spark innovation, foster collaboration, and help teams create meaningful user experiences, leaving them ready to tackle challenges and drive results."
+        desc: "I deliver inspiring talks on player-centric development practices that equip teams with practical tools and fresh perspectives. My sessions spark innovation and foster collaboration leaving teams ready to tackle challenges and drive results."
         icon: fas fa-child
 
   portfolio:
