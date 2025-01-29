@@ -1,18 +1,24 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/05-full.jpg
+title: Trine 4
+subtitle: UX Lead
+image: assets/img/portfolio/trine4-full.jpg
 alt: 
 
 caption:
-  title: Southwest
-  subtitle: Website Design
-  thumbnail: assets/img/portfolio/05-thumbnail.jpg
+  title: Trine 4
+  subtitle: UX Design, Process Design, Pipeline Design, Team Leadership, Facilitation, Communication, Accessibility, User Research, Expert Analysis
+  thumbnail: assets/img/portfolio/trine4-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+During this project I set up the UI pipeline and process at Frozenbyte. I introduced style guides and prototypes that dramatically cut down on implementation time. By shifting iteration to the design phase with these systems, I improved efficiency and streamlined communication during handoff.
+
+I started the overhaul of how user testing was done in the company. Where previously the designers have to analyse raw user research footage, I changed the process so that the user test facilitators made notes and reports on it instead. This allowed the designers to focus on key insights and accelerated the turnaround time for research findings.
+
+To further enhance the UX and game design efforts, I introduced expert analysis reviews, I or other senior designers outside the design team evaluated prototypes to identify usability issues before user testing. This ensured testing focused on uncovering novel insights rather than known problems.
+
+During these expert reviews I paid special attention to accessibility issues which hadn't been done before. While the approach wasn't ideal, this approach led to the most accessible game in the series at that time.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Southwest
-- Category: Website Design
+- Date: 2018 - 2029
+- Client: Frozenbyte
+- Category: UX Design, Process Design, Pipeline Design, Team Leadership, Facilitation, Communication, Accessibility, User Research, Expert Analysis
 

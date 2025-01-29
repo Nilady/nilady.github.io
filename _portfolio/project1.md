@@ -1,18 +1,20 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
+title: Redhill Games
+subtitle: Design Manager
+image: assets/img/portfolio/redhill-whiteonred-full.webp
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Redhill Games
+  subtitle: Team Leadership, Facilitation, Coaching, Mentoring
+  thumbnail: assets/img/portfolio/redhill-whiteonred-thumbnail.tiff
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+At Redhill Games, I led, coached, and mentored a team of nine game designers and UX designers. I helped them shape their careers, take ownership of their growth, and navigate both everyday challenges as well as broader team dynamics.
+
+To support them, I worked closely with the team while also collaborating with clients. This allowed me to refine internal processes and improve communication to ensure a more effective and supportive work environment.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: 2023 - 2024
+- Client: Redhill Games
+- Category: Team Leadership, Facilitation, Coaching, Mentoring
 

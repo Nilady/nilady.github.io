@@ -1,18 +1,20 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/04-full.jpg
+title: Trine 5
+subtitle: UX Lead
+image: assets/img/portfolio/trine5-full.jpg
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
-  thumbnail: assets/img/portfolio/04-thumbnail.jpg
+  title: Trine 5
+  subtitle: User Research, Expert Analysis
+  thumbnail: assets/img/portfolio/trine5-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+For Trine 5 I led the design and planning of the user research efforts, ensuring smooth collaboration between the development and research teams. I created timelines, templates, and processes to streamline communication and make user research rounds as efficient and impactful as possible.
+
+I also conducted multiple rounds of expert analysis on the prototype and helped the game design team to identify and address issues before testing with external players.
 
 {:.list-inline}
-- Date: October 2019
-- Client: Lines
-- Category: Branding
+- Date: 2022
+- Client: Frozenbyte
+- Category: User Research, Expert Analysis
 

@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/03-full.jpg
+title: Keynote Speaking
+image: assets/img/portfolio/keynote-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
-  thumbnail: assets/img/portfolio/03-thumbnail.jpg
+  title: Keynote Speaking
+  subtitle: Presentations, workshops, facilitation
+  thumbnail: assets/img/portfolio/keynote-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+I have delivered keynotes, lectures, and podcasts, as well as facilitated workshops on game design, UX design, user research, teamwork, and leadership. My sessions provide practical insights and hands-on approaches to help teams create better experiences and collaborate more effectively.
 
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+Here are some examples:
+- [How Games Manipulate You Through Deceptive Design](https://gdcvault.com/play/1034508/Free-to-Play-Summit-How) at GDC24 (might require vault access)
+- A talk on Design Thinking: Player-focused approach to game development at Game Access 2024 & We Love Games 2024
+- [Turn Your Research Into Action with a Workshop](https://youtu.be/6MdoGUueGdQ?list=PLsl1h_zG-cXMIjP0Tj0uPNpV2ZkxVQKdX) at #gamesUR Summit 2023
+- [Prototyping in Trine 4](https://www.youtube.com/watch?v=h8nek232kHE) at the Game UX Summit '19
 

@@ -1,18 +1,18 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
+title: Bitmagic
+subtitle: UX Designer, Design Coordinator
+image: assets/img/portfolio/bitmagic-full.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: Bitmagic
+  subtitle: Co-founder, User Research, UX Design, Game Design, Facilitation, Production
+  thumbnail: assets/img/portfolio/bitmagic-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+As a co-founder focused on UX I helped the design team define the product's direction and roadmap. My role included conducting, analysing, and reporting on exploratory research, facilitating design and company-wide workshops and discussions, as well as owning and evolving the design roadmap.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
+- Date: 2022 - 2023
+- Client: Bitmagic
+- Category: Co-founder, User Research, UX Design, Game Design, Facilitation, Production
 
