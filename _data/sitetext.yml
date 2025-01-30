@@ -87,18 +87,18 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+      - title: "Redhill Games"
+        url: https://redhillgames.com/
+        logo: assets/img/clients/redhill.jpg
+      - title: "Papukaya"
+        url: 
+        logo: assets/img/clients/papukaya.jpg
+      - title: "Bitmagic"
+        url: https://www.bitmagic.ai/
+        logo: assets/img/clients/bitmagic.jpg
+      - title: "Frozenbyte"
+        url: https://www.frozenbyte.com/
+        logo: assets/img/clients/frozenbyte.jpg
 
   team:
     title: "Who Am I?"
