@@ -98,7 +98,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/bitmagic.jpg
       - title: "Frozenbyte"
         url: https://www.frozenbyte.com/
-        logo: assets/img/clients/frozenbyte.jpg
+        logo: assets/img/clients/Frozenbyte.jpg
 
   team:
     title: "Who Am I?"
