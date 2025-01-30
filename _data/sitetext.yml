@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Turn your vision into an experience that lasts
+    text: Turn your vision into an experience that lasts
     button: Tell Me More
     buttonlink: "#services"
 
