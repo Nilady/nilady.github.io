@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Create experiences that keep your customers coming back for more
+    title: Turn your vision into an experience that lasts
     button: Tell Me More
     buttonlink: "#services"
 
