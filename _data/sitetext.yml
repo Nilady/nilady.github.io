@@ -114,18 +114,8 @@ Let’s make something players will love."
 
   contact:
     title: "Get in touch"
-    text: "Lorem ipsum or call 123456789"
-    section: contact
-    name: "Name*"
-    name-validation: "Please enter your name."
-    email: "Email*"
-    email-validation: "Please enter your email address."
-    phone: "Phone Number"
-    phone-validation: "Please enter your phone number."
-    message: "Message*"
-    message-validation: "Please enter a message."
-    subject: "Contact Form Submission"
-    submit: "Send Message"
+    text: "Let's talk about your project and team needs. Even if I'm not the right fit, I can often point you to someone who can help you."
+    subtext: example@email.com
 
   footer:
     legal: "Privacy Policy"
