@@ -9,12 +9,14 @@
 	</div>
   </div>
   <div class="row d-flex justify-content-center">
+  {% for person in site.data.sitetext[site.locale].team.people %}
 	<div class="col-sm-3 d-flex align-items-center flex-row">
 	  <img class="img-fluid mx-auto rounded-circle" src="{{ person.image }}" alt="">
 	</div>
 	<div class="col-lg-9 mx-auto text-start">
 	  <div class="large text-muted">{{ site.data.sitetext[site.locale].team.subtext | markdownify }}</div>
 	</div>
+  {% endfor %}
   </div>
 </div>
 </section>
