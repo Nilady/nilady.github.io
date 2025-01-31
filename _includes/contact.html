@@ -18,7 +18,8 @@
       <div class="col-lg-12 text-center">
         <h2 class="section-heading text-uppercase">
           {{ site.data.sitetext.contact.title | markdownify | default: Contact Us }}</h2>
-        <h3 class="section-subheading text-muted">{{ site.data.sitetext.contact.text | default: "" }}</h3>
+        <div class="contact-lead-in text-muted">{{ site.data.sitetext.contact.text | default: "" }}</div>
+        <div class="email-link">{{ site.data.sitetext.contact.email | default: "" }}</div>
       </div>
     </div>
   </div>
