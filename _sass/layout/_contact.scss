@@ -6,21 +6,13 @@ section#contact {
   background-position: center;
   .section-heading {
     color: $white;
-    .email-link {
-      color: $primary;
-      Font-size: 30px;
-    }
   }
-  .contact-text {
-    padding-top: 150px;
-    padding-bottom: 100px;
-    .contact-lead-in {
-      font-size: 22px;
-      font-style: italic;
-      line-height: 22px;
-      margin-bottom: 25px;
-      @include serif-font;
-    }
+  .body-text {
+    color: $white;
+  }
+  .email {
+    font-size: 30px;
+    color: $primary;
   }
   .form-group {
     margin-bottom: 25px;
