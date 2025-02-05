@@ -11,27 +11,27 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    text: Turn your vision into a lasting experience
+    text: Turn your vision into a lasting game experience
 
   services:
     title: "Services"
-    text: "I have over 10 years worth of experience in designing, planning, and delivering high quality experiences. I can help elevate your project to the next level through the following:"
+    text: "With over 10 years of experience in designing, planning, and delivering high-quality experiences, I can help take your project to the next level."
     section: services
     list:
-      - title: "Creative Direction & UX Design"
-        desc: "I help bring clarity to your high-level vision by defining design pillars, audience personas, core features, user flows, detailed UX design, and more. Whether you’re building a new product or refining an existing one, I ensure your design aligns with your goals and creates engaging experiences for your audience."
+      - title: "UX Design & Direction"
+        desc: "I help bring clarity to your high-level vision by defining design pillars, audience personas, core features, user flows, detailed UX design, and more. I ensure your design aligns with your goals and creates engaging experiences for your audience whether you’re building a new product or refining an existing one."
         icon: far fa-compass
       - title: "App Critiques & Expert Analysis"
-        desc: "With years of experience and a unique ability to adopt a beginner's mindset, I provide thorough reviews of your product or your competitor’s. I identify usability issues, troubleshoot problems affecting your KPIs, and offer actionable solutions to elevate your product."
+        desc: "With years of experience in R&D for onboarding users into complex systems, I provide thorough reviews of your product or your competitors'. I identify usability issues, troubleshoot problems affecting your KPIs, and offer actionable solutions to elevate your product."
         icon: fas fa-search #find more at https://fontawesome.com/icons
       - title: "User Testing & Playtesting Support"
-        desc: "Understanding how players and users interact with your product is essential to delivering the experience you envision. I can help identify the right test audience, conduct insightful user tests, and provide actionable feedback to make your product a success."
+        desc: "Understanding how players and users interact with your product is essential to delivering the experience you envision. I identify the right test audience, run insightful user tests, and deliver actionable feedback to ensure your product’s success."
         icon: fas fa-clipboard-list
       - title: "Business & Development Process"
-        desc: "I support your development process by helping define core concepts, organize milestones into a clear roadmap, and prioritize features effectively. Together, we’ll create a structured approach to achieving your business goals."
+        desc: "I will identify ways to improve your development process by streamlining your processes and identifying and addressing ways in which your organisation structure is causing friction in communication within and across teams. I support your development process by helping define core concepts, organize milestones into a clear roadmap, and prioritize features effectively. Together, we’ll create a structured approach to achieving your business goals."
         icon: far fa-calendar-alt
       - title: "Guidance, Mentoring & Coaching"
-        desc: "Sometimes, an outside perspective is all it takes to unlock potential. With extensive experience leading and mentoring teams, I help individuals and groups find alignment, set achievable goals, and build momentum toward success."
+        desc: "Sometimes, an outside perspective is all it takes to unlock potential. With extensive experience leading and mentoring teams, I help individuals and groups find alignment, set achievable goals, and build momentum toward success both in the short and long term."
         icon: fas fa-comments
       - title: "Keynote Speaking & Workshops"
         desc: "I deliver inspiring talks on player-centric development practices that equip teams with practical tools and fresh perspectives. My sessions spark innovation and foster collaboration leaving teams ready to tackle challenges and drive results."
