@@ -18,7 +18,7 @@ en: &DEFAULT_EN
     text: "With over 10 years of experience in designing, planning, and delivering high-quality experiences, I can help take your project to the next level."
     section: services
     list:
-      - title: "UX Design & Direction"
+      - title: "UX Design & //Direction"
         desc: "I help bring clarity to your high-level vision by defining design pillars, audience personas, core features, user flows, detailed UX design, and more. I ensure your design aligns with your goals and creates engaging experiences for your audience whether you’re building a new product or refining an existing one."
         icon: far fa-compass
       - title: "App Critiques & Expert Analysis"
@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "Understanding how players and users interact with your product is essential to delivering the experience you envision. I identify the right test audience, run insightful user tests, and deliver actionable feedback to ensure your product’s success."
         icon: fas fa-clipboard-list
       - title: "Business & Development Process"
-        desc: "I will identify ways to improve your development process by streamlining your processes and identifying and addressing ways in which your organisation structure is causing friction in communication within and across teams. I support your development process by helping define core concepts, organize milestones into a clear roadmap, and prioritize features effectively. Together, we’ll create a structured approach to achieving your business goals."
+        desc: "I help streamline development by refining processes, reducing communication friction, and optimising team structure. Together, we’ll define core concepts, map milestones, and prioritise features to create a structured path to your business goals."
         icon: far fa-calendar-alt
       - title: "Guidance, Mentoring & Coaching"
         desc: "Sometimes, an outside perspective is all it takes to unlock potential. With extensive experience leading and mentoring teams, I help individuals and groups find alignment, set achievable goals, and build momentum toward success both in the short and long term."
@@ -42,43 +42,6 @@ en: &DEFAULT_EN
     text: "Selected showcase of my work"
     section: portfolio
     closebutton: "Close Project"
-
-  timeline:
-    title: "Timeline"
-    text: "Lorem ipsum timeline"
-    section: timeline
-    # left is the default
-    #start_align: "left"
-    events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
-        alt:
-        # you can enforce the alignment
-        align: right
-    end: "Be Part <br> of Our <br> Story!"
-
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
-    section: about
 
   clients:
     section: clients
