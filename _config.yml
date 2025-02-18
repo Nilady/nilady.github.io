@@ -18,8 +18,8 @@ url    : "" # the base hostname & protocol for your site, e.g. http://example.co
 baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
 
 title      : Emma Varjo
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Emma Varjo is an experienced UX and interaction designer dedicated to helping you craft lasting, impactful experiences for your product or service."
+email      : hello@emmavarjo.com #this is also the email contact forms will go to
+description: "Emma Varjo is an experienced leader and UX and interaction designer dedicated to helping you craft lasting, impactful experiences for your product or service."
 author     : Your Name
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
