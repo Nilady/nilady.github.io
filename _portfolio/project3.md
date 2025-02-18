@@ -1,19 +1,16 @@
 ---
-title: Keynote Speaking
-image: assets/img/portfolio/keynote-full.jpeg
-alt: Me giving a talk. The slide states "The uncomfortable questions"
+title: Advisory Roles
+image: assets/img/portfolio/Playcap-full.jpeg
+alt: PlayCap logo
 
 caption:
-  title: Keynote Speaking
-  subtitle: Presentations, workshops, facilitation
-  thumbnail: assets/img/portfolio/keynote-thumbnail.jpeg
+  title: Advisory Roles
+  subtitle: Business Development, Strategy, Investment
+  thumbnail: assets/img/portfolio/Playcap-thumbnail.jpeg
 ---
-I have delivered keynotes, lectures, and podcasts, as well as facilitated workshops on game design, UX design, user research, teamwork, and leadership. My sessions provide practical insights and hands-on approaches to help teams create better experiences and collaborate more effectively.
+I provide strategic guidance to startups and businesses, helping them refine their vision, strengthen their business models, and navigate growth challenges. My advisory roles span across board positions, startup mentorship, and investment networks, where I leverage my experience in game development, leadership, and user research to support teams in making informed decisions and achieving long-term success.
 
 {:.list-inline}
-Here are some examples:
-[How Games Manipulate You Through Deceptive Design](https://gdcvault.com/play/1034508/Free-to-Play-Summit-How) at GDC24 (might require vault access)
-A talk on Design Thinking: Player-focused approach to game development at Game Access 2024 & We Love Games 2024
-[Turn Your Research Into Action with a Workshop](https://youtu.be/6MdoGUueGdQ?list=PLsl1h_zG-cXMIjP0Tj0uPNpV2ZkxVQKdX) at #gamesUR Summit 2023
-[Prototyping in Trine 4](https://www.youtube.com/watch?v=h8nek232kHE) at the Game UX Summit '19
-
+Board Member – Bringing leadership and strategic insight to company growth.
+Startup Advisor – Mentoring early-stage teams on development, market positioning, and scaling.
+Advisor-Investor – Supporting women-led businesses through strategic investment and guidance.
