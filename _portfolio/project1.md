@@ -1,13 +1,13 @@
 ---
 title: Redhill Games
 subtitle: Design Manager
-image: assets/img/portfolio/redhill-redonwhite-full.jpg
+image: assets/img/portfolio/rredhill-whiteonred-full.jpeg
 alt: Shirts on a hanger
 
 caption:
   title: Redhill Games
   subtitle: Team Leadership, Facilitation, Coaching, Mentoring
-  thumbnail: assets/img/portfolio/redhill-redonwhite-thumbnail.jpg
+  thumbnail: assets/img/portfolio/redhill-whiteonred-thumbnail.jpg
 ---
 At Redhill Games, I led, coached, and mentored a team of nine game designers and UX designers. I helped them shape their careers, take ownership of their growth, and navigate both everyday challenges as well as broader team dynamics.
 
