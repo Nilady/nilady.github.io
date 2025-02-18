@@ -1,7 +1,7 @@
 ---
 title: Keynote Speaking
 image: assets/img/portfolio/keynote-full.jpeg
-alt: 
+alt: Me giving a talk. The slide states "The uncomfortable questions"
 
 caption:
   title: Keynote Speaking

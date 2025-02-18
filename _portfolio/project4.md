@@ -2,7 +2,7 @@
 title: Trine 5
 subtitle: UX Lead
 image: assets/img/portfolio/trine5-full.jpg
-alt: 
+alt: Trine 5 key art
 
 caption:
   title: Trine 5

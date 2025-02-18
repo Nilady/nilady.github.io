@@ -2,7 +2,7 @@
 title: Bitmagic
 subtitle: UX Designer, Design Coordinator
 image: assets/img/portfolio/bitmagic-full.jpg
-alt: Keep Exploring
+alt: Bitmagic logo
 
 caption:
   title: Bitmagic
