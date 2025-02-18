@@ -1,8 +1,8 @@
 ---
 title: Redhill Games
 subtitle: Design Manager
-image: assets/img/portfolio/rredhill-whiteonred-full.jpeg
-alt: Shirts on a hanger
+image: assets/img/portfolio/redhill-whiteonred-full.jpeg
+alt: Redhill Games logo
 
 caption:
   title: Redhill Games
