@@ -15,12 +15,12 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/agency-jekyll-theme-starter" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Emma Varjo
 email      : hello@emmavarjo.com #this is also the email contact forms will go to
 description: "Emma Varjo is an experienced leader and UX and interaction designer dedicated to helping you craft lasting, impactful experiences for your product or service."
-author     : Your Name
+author     : Emma Varjo
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
