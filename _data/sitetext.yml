@@ -71,9 +71,6 @@ Let’s make something players will love."
       - title: "Redhill Games"
         url: https://redhillgames.com/
         logo: assets/img/clients/redhill.jpg
-      - title: "Papukaya"
-        url: 
-        logo: assets/img/clients/papukaya.jpg
       - title: "Bitmagic"
         url: https://www.bitmagic.ai/
         logo: assets/img/clients/bitmagic.jpg
@@ -89,6 +86,9 @@ Let’s make something players will love."
       - title: "Games User Research"
         url: https://gamesuserresearch.com/
         logo: assets/img/clients/gamesuserresearch.jpg
+      - title: "Papukaya"
+        url: 
+        logo: assets/img/clients/papukaya.jpg
 
   contact:
     title: "Get in touch"
