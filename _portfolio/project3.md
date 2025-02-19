@@ -11,6 +11,7 @@ caption:
 I provide strategic guidance to startups and businesses, helping them refine their vision, strengthen their business models, and navigate growth challenges. My advisory roles span across board positions, startup mentorship, and investment networks, where I leverage my experience in game development, leadership, and user research to support teams in making informed decisions and achieving long-term success.
 
 {:.list-inline}
-Board Member – Bringing leadership and strategic insight to company growth.
-Startup Advisor – Mentoring early-stage teams on development, market positioning, and scaling.
-Advisor-Investor – Supporting women-led businesses through strategic investment and guidance.
+* Co-Founder - Building and shaping a company from the ground up, driving vision, strategy, and execution.
+* Board Member – Bringing leadership and strategic insight to company growth.
+* Startup Advisor – Mentoring early-stage teams on development, market positioning, and scaling.
+* Advisor-Investor – Supporting women-led businesses through strategic investment and guidance.

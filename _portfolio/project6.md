@@ -12,8 +12,8 @@ I have delivered keynotes, lectures, and podcasts, as well as facilitated worksh
 
 {:.list-inline}
 Here are some examples:
-[How Games Manipulate You Through Deceptive Design](https://gdcvault.com/play/1034508/Free-to-Play-Summit-How) at GDC24 (might require vault access)
-A talk on Design Thinking: Player-focused approach to game development at Game Access 2024 & We Love Games 2024
-[Turn Your Research Into Action with a Workshop](https://youtu.be/6MdoGUueGdQ?list=PLsl1h_zG-cXMIjP0Tj0uPNpV2ZkxVQKdX) at #gamesUR Summit 2023
-[Prototyping in Trine 4](https://www.youtube.com/watch?v=h8nek232kHE) at the Game UX Summit '19
+* [How Games Manipulate You Through Deceptive Design](https://gdcvault.com/play/1034508/Free-to-Play-Summit-How) at GDC24 (might require vault access)
+* A talk on Design Thinking: Player-focused approach to game development at Game Access 2024 & We Love Games 2024
+* [Turn Your Research Into Action with a Workshop](https://youtu.be/6MdoGUueGdQ?list=PLsl1h_zG-cXMIjP0Tj0uPNpV2ZkxVQKdX) at #gamesUR Summit 2023
+* [Prototyping in Trine 4](https://www.youtube.com/watch?v=h8nek232kHE) at the Game UX Summit '19
 
