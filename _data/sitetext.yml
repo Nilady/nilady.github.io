@@ -15,11 +15,11 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "The issues game developers face are often in similar areas: UX design, usability, player interaction, and general management.<br />
+    text: "The issues game developers face are often in similar areas: UX design, usability, player interaction, communication, and leadership.<br />
 With over 10 years of experience, I provide tested processes to overcome them."
     section: services
     list:
-      - title: "UX Design & <br /> Direction"
+      - title: "Design"
         desc: "<i>Struggling to communicate your vision and turn it into an engaging experience?</i><br />
 I help define design pillars, audience personas, core features, and user flows—ensuring your product aligns with your goals and resonates with your audience, whether you're starting fresh or refining an existing design."
         icon: far fa-compass
@@ -45,7 +45,7 @@ An outside perspective can unlock potential. I offer both short-term guidance an
 
   portfolio:
     title: "Portfolio"
-    text: "Selected showcase of my work"
+    text: "Selected showcase of my work (click on images for more information)"
     section: portfolio
     closebutton: "Close Project"
 
@@ -76,7 +76,7 @@ Let’s make something players will love."
         logo: assets/img/clients/bitmagic.jpg
       - title: "Frozenbyte"
         url: https://www.frozenbyte.com/
-        logo: assets/img/clients/Frozenbyte.jpg
+        logo: assets/img/clients/frozenbyte.jpg
       - title: "PlaytestCloud"
         url: https://www.playtestcloud.com/
         logo: assets/img/clients/playtestcloud.jpg
