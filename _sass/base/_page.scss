@@ -47,6 +47,12 @@ h6 {
     @include serif-font;
   }
 }
+
+.PageNavigation {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
 @media (min-width: 768px) {
   section {
     padding: 150px 0;
