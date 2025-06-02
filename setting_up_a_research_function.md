@@ -1,15 +1,14 @@
 ---
+layout: page
 title: Setting Up a User Research Function
-subtitle: UX Research, Process Design, Pipeline Design, Leadership, Facilitation, Communication, Expert Analysis
-image: assets/img/portfolio/user-research.png
-alt: A thank you message people see after completing a Google Form
-link_to_page: setting_up_a_research_function
-
-caption:
-  title: Setting Up a User Research Function
-  subtitle: <br />I improved the user research process at <i>Frozenbyte</i> by introducing clearer research questions, refining playtest processes, and facilitating better cross-team communication. My initiatives, including concept tests, large-scale surveys, and expert reviews, led to more actionable insights, increased confidence in design decisions, and streamlined feedback processes.
-  thumbnail: assets/img/portfolio/user-research.png
 ---
+
+<center><img src="assets/img/portfolio/user-research.png" alt="A thank you message people see after completing a Google Form" width=600 class="img-fluid"></center><br>
+
+<div class="col-lg-12 text-center">
+	<h2 class="section-heading text-uppercase"> Setting Up a User Research Function </h2>
+</div>
+
 <h3>Initial Challenges</h3>
 While Frozenbyte had a user research process when I joined the company, it <b>lacked ownership and focus</b>, which lead to <b>unfocused insights</b> and missed opportunities for actionable feedback.
 
@@ -60,4 +59,4 @@ These initiatives had several <b>company-wide benefits</b>:
 * <b>Improved</b> research <b>efficiency</b>
 * <b>Streamlined internal processes</b> for feedback
 
-<b>Long-term impact:</b>By the time I left the company, teams had the tools and processes in place to conduct <b>focused, efficient user tests</b>, with the capability to turn around <b>actionable insights within hours</b>.
+<b>Long-term impact</b><br />By the time I left the company, teams had the tools and processes in place to conduct <b>focused, efficient user tests</b>, with the capability to turn around <b>actionable insights within hours</b>.

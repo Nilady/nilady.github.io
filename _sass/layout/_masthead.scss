@@ -5,7 +5,7 @@ header.masthead {
   background-image: url("#{$header-image}");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
+  background-position: center 10%;
   background-size: cover;
   .intro-text {
     padding-top: 250px;
@@ -39,7 +39,7 @@ header.masthead {
         @include serif-font;
       }
       .intro-heading {
-        font-size: 70px;
+        font-size: 60px;
         font-weight: 700;
         line-height: 70px;
         margin-bottom: 50px;
