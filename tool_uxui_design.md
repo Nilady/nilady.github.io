@@ -1,20 +1,20 @@
 ---
+layout: page
 title: Tool UX/UI Design
-subtitle: Owning the experience of all of Frozenbyte's in-house tools.<br>UX Design, Design Thinking, Team Leadership
-timeline: 2017 - 2022
-image: assets/img/portfolio/9P-editor-thumbnail.jpg
-alt: A screenshot of Frozenbyte's in-house editor
-link_to_page: tool_uxui_design
 
-caption:
-  title: Tool UX/UI Design
-  subtitle: <br />Designing tools isn’t about fun&colon; It’s about flow. At Frozenbyte, I led the effort to make our proprietary engine faster, smoother, and developer-friendly, boosting morale and collaboration across the studio. My efforts lead the project to grow from small improvements to a complete overhaul of the in-house tools.
-  thumbnail: assets/img/portfolio/9P-editor-thumbnail.jpg
+next:
+  title: Creating a UI Pipeline
+  url: creating_a_UI_pipeline
+
+previous:
+  title: Co-founder
+  url: co-founder
 ---
+
 <center><img src="assets/img/portfolio/9P-editor.jpg" alt="A screenshot of Frozenbyte's in-house editor" width=600 class="img-fluid"></center><br>
 
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase"> A screenshot of Frozenbyte's in-house editor </h2>
+	<h2 class="section-heading text-uppercase"> Tool UX/UI Design </h2>
 </div>
 
 <h3>Designing UX for tools</h3>
@@ -46,14 +46,10 @@ Soon, I was leading an unofficial team of four programmers, later expanding to t
 - Designed in-game editors for customisation (paving the way for the next-generation editor)
 - Created sustainable processes for gathering and prioritising tool feedback
 
-<center><img src="assets/img/portfolio/starbase-in-game-spaceship-editor.png" alt="A screenshot of Starbase's in-game spaceship editor" width=600 class="img-fluid"></center><br>
-
-<div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase"> A screenshot of Starbase's in-game spaceship editor my team created </h2>
-</div>
-
 <h3>Impact</h3>
 - <b>Morale Boost:</b> Developers reported higher satisfaction simply because someone was listening and advocating for their needs.
 - <b>Collaboration:</b> Programmers volunteered time to improve tools, growing into a cross-disciplinary tools team.
 - <b>Roadmap Clarity:</b> Outdated, duplicate, and obsolete backlog items were replaced with a prioritised, actionable plan.
 - <b>Future-Proofing:</b> The in-game editors we delivered became the foundation for the next-generation editor.
+
+<center><img src="assets/img/portfolio/starbase-in-game-spaceship-editor.png" alt="A screenshot of Starbase's in-game spaceship editor" width=600 class="img-fluid"><br><i>A screenshot of Starbase's in-game spaceship editor</i></center><br>

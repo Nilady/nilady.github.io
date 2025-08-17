@@ -1,14 +1,16 @@
 ---
 layout: page
-title: UX/UI Design
+title: Game UX/UI Design
 
 next:
   title: Co-founder
   url: co-founder
 ---
 
+<center><img src="assets/img/portfolio/uxui-design-thumbnail.png" alt="Screenshot of some of the wireframes for Trine 4 menus" width=446 class="img-fluid"></center><br>
+
 <div class="col-lg-12 text-center">
-	<h2 class="section-heading text-uppercase"> UX/UI Design </h2>
+	<h2 class="section-heading text-uppercase"> Game UX/UI Design </h2>
 </div>
 
 <h3>Context</h3>
